@@ -1,4 +1,4 @@
-# Demo-caesar
+## Demo-caesar
 
 A version of the *demo-caesar* repository for the purposes of testing the
 *TiS-CI* prototypes.
